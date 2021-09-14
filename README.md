@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Abhinandan
-- 👀 I’m interested in Mechanical Engg (FEA - Structural,Thermal & Vibration, Fatigue - Fracture Mechanics,Mechanical Design) & AI-ML
-- 🌱 I’m currently learning ML - DL
-  🌱 I’m currently researching on Vibration Fatigue - FEA method development (CAE- Test correlation)
-- 💞️ I’m looking to collaborate on ML-DL applications in Automotive applications
+- 👀  Interested in Mechanical Engg / Product Development (FEA - Structural,Thermal & Vibration, Fatigue - Fracture Mechanics,Mechanical Design) & AI-ML
+- 🌱 I’m currently learning / researching on ML - DL, FEA methods for Fatigue validation - Vibration & Thermostructural
+- 💞️ I’m looking to collaborate on ML-DL applications in Mechanical domain (Automotive)
 - 📫 How to reach me raoabhinandan90@gmail.com
 
 <!---
